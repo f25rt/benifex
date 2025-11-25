@@ -1,4 +1,4 @@
-# beneifx
+# benifex
 Technical exam
 
 This project runs on springboot and H2 Database
